@@ -11,3 +11,11 @@ Day 1 of 100 Days of code, I jump to https://www.freecodecamp.org/learn/2022/res
 #100DaysOfCode #freeCodeCamp #photocatapp 
 Day 2 of 100 Days of code,I learned a lot today! I'm currently building a camper cafe menu using the basics of CSS. I'm so excited to build a real one 😊
 ![image](https://user-images.githubusercontent.com/97998537/150263181-7785bb7a-4a5c-414e-9544-4d053d6d8eb4.png)
+
+### R1D3
+#100DaysOfCode #freeCodeCamp #photocatapp 
+Day 3 of 100 Days of code. Today I've just finished the project in 
+@freeCodeCamp
+ Responsive Design. I learned a lot by building this simple Caffe menu app.
+![image](https://user-images.githubusercontent.com/97998537/150453857-ae635421-a9e1-4a19-867f-3c2c0d4d2317.png)
+
