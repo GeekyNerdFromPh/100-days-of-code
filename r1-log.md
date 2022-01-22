@@ -19,3 +19,9 @@ Day 3 of 100 Days of code. Today I've just finished the project in
  Responsive Design. I learned a lot by building this simple Caffe menu app.
 ![image](https://user-images.githubusercontent.com/97998537/150453857-ae635421-a9e1-4a19-867f-3c2c0d4d2317.png)
 
+### R1D4
+
+#100DaysOfCode #freeCodeCamp #photocatapp 
+Day 4 of 100 Days of code in @freeCodeCamp . Horay! I got a certificate on @Grasshopper app learning Javascript. It's fun and addictive. I'm also currently finishing this marker project in the curriculum using CSS, colors & etc. ![image](https://user-images.githubusercontent.com/97998537/150646365-66649093-d3a0-4550-9e36-6346d2f68fd6.png)
+![image](https://user-images.githubusercontent.com/97998537/150646372-f2b75683-8279-4580-932d-6afcb4d7c6bf.png)
+
