@@ -25,3 +25,9 @@ Day 3 of 100 Days of code. Today I've just finished the project in
 Day 4 of 100 Days of code in @freeCodeCamp . Horay! I got a certificate on @Grasshopper app learning Javascript. It's fun and addictive. I'm also currently finishing this marker project in the curriculum using CSS, colors & etc. ![image](https://user-images.githubusercontent.com/97998537/150646365-66649093-d3a0-4550-9e36-6346d2f68fd6.png)
 ![image](https://user-images.githubusercontent.com/97998537/150646372-f2b75683-8279-4580-932d-6afcb4d7c6bf.png)
 
+### R1D5
+#100DaysOfCode #freeCodeCamp #photocatapp 
+Day 5 of 100 Days of code in 
+@freeCodeCamp
+I'm currently building the Registration Form app in @freeCodeCamp. I learned a lot about input types, form, select types and attributes to make a form functional and interactive.
+![Screenshot (264)](https://user-images.githubusercontent.com/97998537/150713160-2368e545-c275-424b-abb3-3f6d100dc824.png)
