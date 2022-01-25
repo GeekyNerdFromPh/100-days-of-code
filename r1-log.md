@@ -31,3 +31,12 @@ Day 5 of 100 Days of code in
 @freeCodeCamp
 I'm currently building the Registration Form app in @freeCodeCamp. I learned a lot about input types, form, select types and attributes to make a form functional and interactive.
 ![Screenshot (264)](https://user-images.githubusercontent.com/97998537/150713160-2368e545-c275-424b-abb3-3f6d100dc824.png)
+
+### R1D6 
+#100DaysOfCode #freeCodeCamp #photocatapp 
+Day 6 of 100 Days of code in 
+@freeCodeCamp
+Yehey! I'm currently Building a Survey Form App & I'm so excited for the result of it. 
+![image](https://user-images.githubusercontent.com/97998537/150989804-7c9a6f11-5c49-43e8-8990-11388246db15.png)
+![image](https://user-images.githubusercontent.com/97998537/150989808-0b31dd49-5925-44d8-acd8-3abeb0b3be3d.png)
+
