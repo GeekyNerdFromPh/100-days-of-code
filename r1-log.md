@@ -48,3 +48,14 @@ Day 7 of 100 Days of code in
 Yay! Finally , I finished the html structure of my survey form. Though I'm still confused but I still manage to fix the errors. I will work out the style on my Day 8. Wish me luck
 ![image](https://user-images.githubusercontent.com/97998537/151275506-465cb39b-b939-4b2d-9874-37aadad15329.png)
 ![image](https://user-images.githubusercontent.com/97998537/151275519-3a6eac4b-8e61-4e65-8c43-3463cb76898d.png)
+
+### R1D8 
+
+#100DaysOfCode #freeCodeCamp #photocatapp 
+Day 8 of 100 Days of code in 
+@freeCodeCamp
+
+Hey! It's hard and challenging but thanks to @StackOverflow , I manage to get the exact format for the background image and color! I learned about the pseudo class = body::before :D .
+
+![image](https://user-images.githubusercontent.com/97998537/151460955-a4e57271-62b3-47a6-8116-dab27d657e00.png)
+
