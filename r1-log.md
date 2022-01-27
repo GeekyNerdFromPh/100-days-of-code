@@ -40,3 +40,11 @@ Yehey! I'm currently Building a Survey Form App & I'm so excited for the result 
 ![image](https://user-images.githubusercontent.com/97998537/150989804-7c9a6f11-5c49-43e8-8990-11388246db15.png)
 ![image](https://user-images.githubusercontent.com/97998537/150989808-0b31dd49-5925-44d8-acd8-3abeb0b3be3d.png)
 
+### R1D7
+
+#100DaysOfCode #freeCodeCamp #photocatapp 
+Day 7 of 100 Days of code in 
+@freeCodeCamp
+Yay! Finally , I finished the html structure of my survey form. Though I'm still confused but I still manage to fix the errors. I will work out the style on my Day 8. Wish me luck
+![image](https://user-images.githubusercontent.com/97998537/151275506-465cb39b-b939-4b2d-9874-37aadad15329.png)
+![image](https://user-images.githubusercontent.com/97998537/151275519-3a6eac4b-8e61-4e65-8c43-3463cb76898d.png)
