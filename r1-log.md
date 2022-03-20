@@ -59,3 +59,11 @@ Hey! It's hard and challenging but thanks to @StackOverflow , I manage to get th
 
 ![image](https://user-images.githubusercontent.com/97998537/151460955-a4e57271-62b3-47a6-8116-dab27d657e00.png)
 
+
+
+#100DaysOfCode #freeCodeCamp #FrontendMentor
+Day 9 of 100 Days of code in 
+@freeCodeCamp
+ 
+
+I've completed the http://FrontendMentor.io Preview Card Component Challenge! It's challenging for me because I'm new to responsive design and CSS but I manage to finish it, took me 2 days!
