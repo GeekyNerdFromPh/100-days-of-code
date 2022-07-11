@@ -9,11 +9,18 @@
 
 **Link to work:** n/a
 
-### Day 1: July 9,2022 - Saturday
-
+### Day 1: July 9,2022 - Saturday 
 
 **Today's Progress**: I've completed the Survey Form Challenge but it has no fancy styles because I'm still learning CSS
 
 **Thoughts:** Woaah, This journey is great and rewarding , specially if you wiil see the end result
+
+**Link to work:** n/a
+
+### Day 2: July 12,2022 - Tuesday 
+
+**Today's Progress**: Currently finishing the nutrition facts table using CSS and some wierd pseudo codes? Kind of late because of my work but I spend 1.5 hours for this. Learned some advance html codes and how to proper use the divs.
+
+**Thoughts:** Shocking but it's fun
 
 **Link to work:** n/a
