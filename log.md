@@ -24,3 +24,12 @@
 **Thoughts:** Shocking but it's fun
 
 **Link to work:** n/a
+
+
+### Day 3: July 14,2022 - Thursday 
+
+**Today's Progress**: Currently finishing this HTML/CSS Quiz project. I'm having fun applying what I've learned in the curriculum   . Learned so much about HTML and CSS.
+
+**Thoughts:** CSS is fun to learn
+
+**Link to work:** n/a
