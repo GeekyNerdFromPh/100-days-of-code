@@ -33,3 +33,12 @@
 **Thoughts:** CSS is fun to learn
 
 **Link to work:** n/a
+
+### Day 4: July 16,2022 - Saturday 
+
+**Today's Progress**: Currently finishing the Quiz App using the basics of HTML form. Learning the types of input elements and some Semantic tags .
+
+**Thoughts:** CSS is fun to learn
+
+**Link to work:** n/a
+
