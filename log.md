@@ -42,3 +42,13 @@
 
 **Link to work:** n/a
 
+### Day 5: July 23,2022 - Saturday 
+
+**Today's Progress**: Currently learning the basics of CSS . Understanding the box-model of any element of HTML. Started my journey 
+@frontendmentor
+, building a QR code component. Hoping to learn more. 
+
+**Thoughts:** CSS is fun to learn
+
+**Link to work:** 
+https://github.com/TechRechcel/QR-code-component.git
