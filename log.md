@@ -52,3 +52,18 @@
 
 **Link to work:** 
 https://github.com/TechRechcel/QR-code-component.git
+
+
+### Day 6: Aug 3,2022 - Wednesday 
+
+**Today's Progress**: 
+Day 6 of #100daysofcodechallenge #100DaysOfCode  @ #freeCodeCamp 
+@freeCodeCamp
+ . 
+
+Currently learning the basics of CSS . Specially the animation, Colors and linear-gradients. I'm glad that I've finished the heart animation challenge! So happy that I'm back.
+
+**Thoughts:** 
+    CSS animation is so fun to learn. I'm excited to try and build my own animated apps . LOL
+
+**Link to work:** 
