@@ -67,3 +67,20 @@ Currently learning the basics of CSS . Specially the animation, Colors and linea
     CSS animation is so fun to learn. I'm excited to try and build my own animated apps . LOL
 
 **Link to work:** 
+
+
+### Day 7: Aug 9, 2022 - Wednesday
+
+
+**Today's Progress**:
+
+Day 7 of #100daysofcodechallenge #100DaysOfCode #freeCodeCamp  
+@freeCodeCamp
+ 
+@github
+ 
+
+I've finished the Responsive Web Design Principle, Applied Accessibility and Applied Visual Design in this evening. I've learned a lot about how to write semantic tags for accessibility purpose
+
+**Thoughts:** 
+It's nice to know some techniques on how to make an accessable website using the appropriate and semantic tags. It's kind of overwhelming but I'm excited to build a real one someday.
