@@ -69,7 +69,7 @@ Currently learning the basics of CSS . Specially the animation, Colors and linea
 **Link to work:** 
 
 
-### Day 7: Aug 9, 2022 - Wednesday
+### Day 7: Aug 9, 2022 - Tuesday
 
 
 **Today's Progress**:
@@ -84,3 +84,19 @@ I've finished the Responsive Web Design Principle, Applied Accessibility and App
 
 **Thoughts:** 
 It's nice to know some techniques on how to make an accessable website using the appropriate and semantic tags. It's kind of overwhelming but I'm excited to build a real one someday.
+
+### Day 8: August 10, 2022 - Wednesday
+
+**Today's Progress**:
+
+Day 8 of #100DaysOfCode in 
+@freeCodeCamp
+ . 
+
+Finished some small projects but I've learned a lot while doing it. I applied the topics what I've learned earlier and it turns out great.
+
+
+**Thoughts:** 
+
+I'm very proud to say that I've finished some small projects but had so many learnings doing it.
+
