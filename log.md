@@ -100,3 +100,17 @@ Finished some small projects but I've learned a lot while doing it. I applied th
 
 I'm very proud to say that I've finished some small projects but had so many learnings doing it.
 
+### Day 9: August 11, 2022 - Thursday
+
+**Today's Progress**:
+
+
+Day 9 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Successfully finished the Tribute Page Project. I choose this person because I'm so inspired by his stories and achievements. Coded using #vscode 
+
+
+**Thoughts:** 
+
+Although this project is so overwhelming,  I'm so very inspired and moved by the story of sir Dennis Rithie. Without Him, The programming language for the computer will be in vain
