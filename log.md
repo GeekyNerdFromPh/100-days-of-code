@@ -95,7 +95,7 @@ Day 8 of #100DaysOfCode in
 
 Finished some small projects but I've learned a lot while doing it. I applied the topics what I've learned earlier and it turns out great.
 
-
+ 
 **Thoughts:** 
 
 I'm very proud to say that I've finished some small projects but had so many learnings doing it.
@@ -114,3 +114,16 @@ Successfully finished the Tribute Page Project. I choose this person because I'm
 **Thoughts:** 
 
 Although this project is so overwhelming,  I'm so very inspired and moved by the story of sir Dennis Rithie. Without Him, The programming language for the computer will be in vain
+
+
+### Day 10: August 12, 2022 - Friday 
+
+
+**Today's Progress**:
+
+Currently learning HTML <table> element and building this awesome Balance sheet. I learned a lot of pseudo elements , how to use and when to use all of it.  I will finish this tomorrow after work.
+
+
+**Thoughts** 
+
+Although CSS is hard , I found it helpful especially for designing and making the markup beautiful
