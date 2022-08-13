@@ -127,3 +127,22 @@ Currently learning HTML <table> element and building this awesome Balance sheet.
 **Thoughts** 
 
 Although CSS is hard , I found it helpful especially for designing and making the markup beautiful
+
+
+
+### Day 11: August 14, 2022 - Sunday 
+
+
+**Today's Progress**:
+
+
+Day 11 of #100daysofcodechallenge #100DaysOfCode in 
+@freeCodeCamp
+ 
+
+I've finished the Balance Sheet project and learned a lot about <table> element. Currently finishing This "Picasso Painting" using a lot of CSS . It's overwhelming but its fun.
+
+
+**Thoughts** 
+
+It's a bit confusing at first but I finally get the hang of it by practicing.
