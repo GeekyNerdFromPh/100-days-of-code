@@ -146,3 +146,37 @@ I've finished the Balance Sheet project and learned a lot about <table> element.
 **Thoughts** 
 
 It's a bit confusing at first but I finally get the hang of it by practicing.
+
+### Day 12: August 14, 2022 - Sunday 
+
+
+
+
+**Today's Progress**:
+Day 12 of #100DaysOfCode #100daysofcodechallenge 
+I started the challenge in 
+@frontendmentor
+, url-shortening. I apply all my learnings at 
+@freeCodeCamp
+  Hope to finish this tomorrow.
+
+
+
+
+  **Thoughts** 
+
+n/a
+
+### Day 13: August 16, 2022 - Tuesday 
+
+
+**Today's Progress**:
+
+Day 13 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Finished two project using CSS techniques: Piano and Picasso artwork. Currently working my technical documentation page using VSCode(I'm comfortable with), I'm finished with the HTML structure and will apply all my learnings in CSS toms
+
+**Thoughts** 
+
+I'm so excited to apply all of the techniques epecially in responsive web design principle.
