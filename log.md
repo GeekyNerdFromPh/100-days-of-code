@@ -180,3 +180,18 @@ Finished two project using CSS techniques: Piano and Picasso artwork. Currently 
 **Thoughts** 
 
 I'm so excited to apply all of the techniques epecially in responsive web design principle.
+
+### Day 14: August 17, 2022 - Wednesday 
+
+**Today's Progress**:
+
+
+Day 14 of #100DaysOfCode #100daysofcodechallenge in 
+@freeCodeCamp
+ .
+Currently finishing my technical documentation page (81% done). Hope to finish it tommorrow
+
+
+**Thoughts** 
+
+I'm about to finish this project! I'm so happy with it 
