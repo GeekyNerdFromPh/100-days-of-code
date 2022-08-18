@@ -195,3 +195,18 @@ Currently finishing my technical documentation page (81% done). Hope to finish i
 **Thoughts** 
 
 I'm about to finish this project! I'm so happy with it 
+
+
+
+### Day 15: August 18, 2022 - Thursday 
+
+**Today's Progress**:
+
+Day 15 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Finally! I've finished the technical documentation page, it was tough and overwhelming but it was so fun. I pushed the code to my GitHub acct. for future use.
+
+**Thoughts** 
+
+I'm so happy that I've finally finished the project. It took me hours to complete it
