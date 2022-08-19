@@ -210,3 +210,17 @@ Finally! I've finished the technical documentation page, it was tough and overwh
 **Thoughts** 
 
 I'm so happy that I've finally finished the project. It took me hours to complete it
+
+
+### Day 16: August 20, 2022 - Saturday 
+
+**Today's Progress**: 
+
+Day 16 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Currently finishing this "building a city skyline" . I've learned a lot about CSS variables: uses and execution . Hopefully will finish this tomorrow.
+
+**Thoughts** 
+
+It was fun , lol
