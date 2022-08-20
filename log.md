@@ -224,3 +224,19 @@ Currently finishing this "building a city skyline" . I've learned a lot about CS
 **Thoughts** 
 
 It was fun , lol
+
+
+### Day 17: August 20, 2022 - Saturday 
+
+
+**Today's Progress**:
+
+Day 17 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Successfully done my City Skyline project . I've learned a lot about CSS variables and how powerful it is with CSS Media Query .
+
+**Thoughts** 
+
+
+I've learned a lot about CSS varable and media queries but still learning more 
