@@ -240,3 +240,17 @@ Successfully done my City Skyline project . I've learned a lot about CSS variabl
 
 
 I've learned a lot about CSS varable and media queries but still learning more 
+
+
+### Day 18: August 22, 2022 - Monday 
+
+**Today's Progress**:
+
+Day 18 of #100daysofcodechallenge in 
+@freeCodeCamp
+ .
+Currently working with my Magazine project. I've learned a lot about CSS grid and how it's related to Flexbox(More Magical) . Hoping to finish this tomorrow.
+
+**Thoughts**
+
+
