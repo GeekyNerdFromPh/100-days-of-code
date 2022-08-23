@@ -254,3 +254,19 @@ Currently working with my Magazine project. I've learned a lot about CSS grid an
 **Thoughts**
 
 
+
+### Day 19: August 23, 2022 - Tuesday 
+
+
+Day 19 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+
+I'm done finishing the Magazine Project using some CSS grid and media queries. Currently starting my Product Landing Page using 
+@code
+ . I will apply all my learnings to this project. Hope to finish this tommorow
+
+
+**Thoughts**
+
+It was fun to learn CSS and thinking of my future job , I will definetely use CSS Grid for responsive layouts
