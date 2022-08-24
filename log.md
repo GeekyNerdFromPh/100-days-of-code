@@ -270,3 +270,17 @@ I'm done finishing the Magazine Project using some CSS grid and media queries. C
 **Thoughts**
 
 It was fun to learn CSS and thinking of my future job , I will definetely use CSS Grid for responsive layouts
+
+
+### Day 20: August 25, 2022 - Thursday 
+
+
+
+Day 20 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Currently adding some styles and making some fix on my code because it messes up , but will do my best to finish this tomorrow.
+
+**Thoughts**
+
+I'm struggling but I will try to finish it tommorow morning
