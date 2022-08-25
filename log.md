@@ -284,3 +284,18 @@ Currently adding some styles and making some fix on my code because it messes up
 **Thoughts**
 
 I'm struggling but I will try to finish it tommorow morning
+
+
+### Day 21: August 26, 2022 - Friday 
+
+
+Day 21 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Finally! I've finished the Product-Landing-Page Project Challenge. It was challenging and mind-blowing experience for me but I still enjoy it.
+
+
+**Thoughts**
+
+
+So challenging experience but I've learned a lot from it.
