@@ -299,3 +299,19 @@ Finally! I've finished the Product-Landing-Page Project Challenge. It was challe
 
 
 So challenging experience but I've learned a lot from it.
+
+
+### Day 22: August 28, 2022 - Sunday 
+
+
+Day 22 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+I'm very grateful today because my request to be part of the (study now, pay later) coding boot camp has been accepted. Thank you 
+@KodegoPH
+! . Finished the ferries wheel project and started the penguin challenge.
+
+
+**Thoughts**
+
+I can't wait to learn on how to become a full stack or front-end web developer and earn some decent money to provide for my needs and family
