@@ -315,3 +315,19 @@ I'm very grateful today because my request to be part of the (study now, pay lat
 **Thoughts**
 
 I can't wait to learn on how to become a full stack or front-end web developer and earn some decent money to provide for my needs and family
+
+
+
+### Day 23: August 29, 2022 - Monday 
+
+
+Day 23 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Finally , I've just finished the penguin challenge project. I've learned a lot about divs and CSS variables. (And learned some fun facts about penguins . LOL)
+
+
+
+**Thoughts**
+
+
