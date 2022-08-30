@@ -331,3 +331,15 @@ Finally , I've just finished the penguin challenge project. I've learned a lot a
 **Thoughts**
 
 
+### Day 24: August 30, 2022 - Tuesday 
+
+
+
+Day 24 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Currently working with my personal portfolio website using #vscode . It's tough but I'm also enjoying it.
+
+
+
+**Thoughts**
