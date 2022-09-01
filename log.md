@@ -343,3 +343,16 @@ Currently working with my personal portfolio website using #vscode . It's tough 
 
 
 **Thoughts**
+
+
+### Day 25: September 01, 2022 - Thursday 
+
+
+
+Day 25 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+I'm 76% done with my personal portfolio projects, face some bugs but luckily fixed it with no time. It's hard but I'm enjoying it so much.
+
+**Thoughts**
+
