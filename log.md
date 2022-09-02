@@ -356,3 +356,16 @@ I'm 76% done with my personal portfolio projects, face some bugs but luckily fix
 
 **Thoughts**
 
+
+### Day 26: September 02, 2022 - Friday 
+
+
+Day 26 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Yahoo! I've just completed the final project for responsive web design! . Gained my first certificate that will proves that I can build one (responsive one site LOL). Thank you so much sir 
+@ossia
+ and twitter friends
+
+**Thoughts**
+
