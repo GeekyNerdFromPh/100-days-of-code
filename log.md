@@ -369,3 +369,13 @@ Yahoo! I've just completed the final project for responsive web design! . Gained
 
 **Thoughts**
 
+
+### Day 27: September 03, 2022 - Saturday 
+
+
+
+Day 27 of #100DaysOfCode in @freeCodeCamp.
+Currently working the (url-shortener challenge in @frontendmentor ) I applied all my learnings from the previous challenges and lessons. After, I've started my first javascript challenge (Word Blanks)
+
+
+**Thoughts**
