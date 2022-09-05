@@ -381,10 +381,24 @@ Currently working the (url-shortener challenge in @frontendmentor ) I applied al
 **Thoughts**
 
 
-### Day 28: September 04, 2022 - Sunday 
+### Day 28: September 04, 2022 - Sunday c
 
 
 28th Day of #100DaysOfCode #100daysofcodechallenge in @freeCodeCamp . 
 Currently Learning JS arrays, Bracket notations, functions,  else if statements. Solved some mini challenges (Shopping List & Golf Par). 
 
 **Thoughts**
+
+
+### Day 29: September 05, 2022 - Monday
+
+
+
+Day 29 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+I'm 73% done in Basic Javascript. Solved some prerry tricky problems in SWITCH statement. Hoping to finish it tomorrow.
+
+
+**Thoughts**
+
