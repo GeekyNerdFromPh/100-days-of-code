@@ -402,3 +402,18 @@ I'm 73% done in Basic Javascript. Solved some prerry tricky problems in SWITCH s
 
 **Thoughts**
 
+
+
+### Day 30: September 06, 2022 - Tuesday
+
+
+
+Day 30 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+I'm stuck with this Record Collection Challenges which involves the using objects & array. But I'm nearly done with my url-shortening-api challenge in 
+@frontendmentor
+ 😁
+
+**Thoughts**
+
