@@ -417,3 +417,16 @@ I'm stuck with this Record Collection Challenges which involves the using object
 
 **Thoughts**
 
+
+### Day 31: September 08, 2022 - Thursday
+
+
+Day 31 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Stuck in the basics of javascript but I'm confident that I can make it tomorrow. Started another challenge in 
+@frontendmentor
+ to practice CSS styling.
+
+
+**Thoughts**
