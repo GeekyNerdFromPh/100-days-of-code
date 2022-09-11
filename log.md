@@ -430,3 +430,17 @@ Stuck in the basics of javascript but I'm confident that I can make it tomorrow.
 
 
 **Thoughts**
+
+
+### Day 32: September 11, 2022 - Sunday
+
+
+
+
+Day 32 of #100daysofcodechallenge in @freeCodeCamp.
+Yahoo! After some stressful challenges (especially about recursion) I've finally finished the Basic JavaScript Challenge in the curriculum. Learned so much about arrays, objects and types of for loops.
+
+
+**Thoughts**
+
+Javascript is so hard. 
