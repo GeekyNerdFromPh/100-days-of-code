@@ -444,3 +444,12 @@ Yahoo! After some stressful challenges (especially about recursion) I've finally
 **Thoughts**
 
 Javascript is so hard. 
+
+### Day 33: September 12, 2022 - Monday
+
+
+Currently Learning ES6 of JS. Found some helpful tricks in functions like : cons print (data) => console.log(data);
+
+**Thoughts**
+
+Javascript is hard but I'm confident that I can make it to the end
