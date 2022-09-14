@@ -453,3 +453,14 @@ Currently Learning ES6 of JS. Found some helpful tricks in functions like : cons
 **Thoughts**
 
 Javascript is hard but I'm confident that I can make it to the end
+
+### Day 34: September 15, 2022 - Thursday
+
+Day 34 of #100DaysOfCode in 
+@freeCodeCamp
+ .
+Currently learning bootstrap to practice my design skills lol. Learned some techniques on how to use it efficiently.
+
+
+**Thoughts**
+
