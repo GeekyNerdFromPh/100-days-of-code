@@ -464,3 +464,11 @@ Currently learning bootstrap to practice my design skills lol. Learned some tech
 
 **Thoughts**
 
+
+### Day 35: September 16, 2022 - Friday
+
+
+Day 35 of #100DaysOfCode in @freeCodeCamp .
+Currently learning jQuery and Sass :) jQuery makes easier the targeting of various elements and modifying them. Sass in the other hand can make styling more creative by using variables and @mixins.
+
+**Thoughts**
