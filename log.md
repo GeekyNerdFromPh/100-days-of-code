@@ -472,3 +472,15 @@ Day 35 of #100DaysOfCode in @freeCodeCamp .
 Currently learning jQuery and Sass :) jQuery makes easier the targeting of various elements and modifying them. Sass in the other hand can make styling more creative by using variables and @mixins.
 
 **Thoughts**
+
+
+
+### Day 36: September 19, 2022 - Monday
+
+
+Day 36 of #100DaysOfCode @freeCodeCamp .
+Successfully finished the ES6 of JavaScript. It was so overwhelming at first, but I managed to get the hang of it by the help of @w3schoolsonline . Now I can create my own object templates with ease.
+
+
+
+**Thoughts**
