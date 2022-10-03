@@ -484,3 +484,14 @@ Successfully finished the ES6 of JavaScript. It was so overwhelming at first, bu
 
 
 **Thoughts**
+
+### Day 37: October 3, 2022 - Monday
+
+
+Day 37 of #100DaysOfCode #100daysofcodechallenge @freeCodeCamp
+ .
+After all the setbacks, I'm finally back with my personal mini project from the BootCamp that recently I joined. I'm currently working with Bootstrap alongside the W3.CSS framework.
+
+**Thoughts**
+
+I've been through a lot these past days but I finally manage to get back to track and continue what I've started
