@@ -495,3 +495,11 @@ After all the setbacks, I'm finally back with my personal mini project from the 
 **Thoughts**
 
 I've been through a lot these past days but I finally manage to get back to track and continue what I've started
+
+## Day 38: October 8, 2022 - Saturday
+
+Day 38 of #100DaysOfCode @freeCodeCamp
+ #100daysofcodechallenge 
+Finally! After fixing some errors, my business webpage is now live at github pages : https://techrechcel.github.io
+
+**Thoughts**
