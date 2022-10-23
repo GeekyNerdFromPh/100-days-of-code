@@ -503,3 +503,13 @@ Day 38 of #100DaysOfCode @freeCodeCamp
 Finally! After fixing some errors, my business webpage is now live at github pages : https://techrechcel.github.io
 
 **Thoughts**
+
+## Day 39: October 23, 2022 - Sunday
+
+Day 39 of #100DaysOfCode @freeCodeCamp
+ .
+Finally! I've completed the advice generator app using http://api.adviceslip.com! Faced some problems but managed to deploy it to http://vercel.com: https://advice-generator-app-main-sepia-zeta.vercel.app
+
+**Thoughts**
+
+Overwhelming yet rewarding
