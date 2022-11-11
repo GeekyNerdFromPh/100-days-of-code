@@ -513,3 +513,14 @@ Finally! I've completed the advice generator app using http://api.adviceslip.com
 **Thoughts**
 
 Overwhelming yet rewarding
+
+## Day 40: November 11, 2022 - Friday
+
+Day 40 of #100daysOfCode @freeCodeCamp
+ .
+Finished the sass tut @freeCodeCamp
+  and currently building the API of my personal project using NodeExpress & MonggoDB. Currently facing some errors within authentication of users. Wish me luck
+
+  **Thoughts**
+
+It's my first time creating an API without prior experience and knowledge but I believe na ikaw lang at ako XD
