@@ -524,3 +524,19 @@ Finished the sass tut @freeCodeCamp
   **Thoughts**
 
 It's my first time creating an API without prior experience and knowledge but I believe na ikaw lang at ako XD
+
+
+## Day 41: December 9, 2022 - Thursday
+
+Day 41 of #100daysOfCode 
+@freeCodeCamp
+ 
+@wwwschools
+ 
+
+Currently Learning PHP and Laravel for building my personal web app
+
+  **Thoughts**
+
+Felt lost but I will do my best to end this year with a bang!
+
