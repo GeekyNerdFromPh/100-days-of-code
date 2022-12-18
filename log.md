@@ -540,3 +540,10 @@ Currently Learning PHP and Laravel for building my personal web app
 
 Felt lost but I will do my best to end this year with a bang!
 
+
+## Day 42: December 18, 2022 - Sunday
+Day 42 of #100DaysOfCode 
+@freeCodeCamp
+ 
+
+Learning React , bits by bits faced some errors but manage to -git the hang of it
