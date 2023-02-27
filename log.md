@@ -547,3 +547,17 @@ Day 42 of #100DaysOfCode
  
 
 Learning React , bits by bits faced some errors but manage to -git the hang of it
+
+
+## Day 43: February 27, 2023 - Monday
+
+Day 43 of #100DaysOfCode 
+@freeCodeCamp
+  
+@YouTube
+ 
+
+Currently building my very own REACT portfolio from scratch. Tough stuff but worth learning at the end. Deploying it on http://Vercel.com.
+
+  **Thoughts** 
+
