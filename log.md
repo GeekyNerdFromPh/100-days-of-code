@@ -561,3 +561,15 @@ Currently building my very own REACT portfolio from scratch. Tough stuff but wor
 
   **Thoughts** 
 
+
+## Day 44: July 28, 2023 - Friday
+
+Day 43 of #100DaysOfCode 
+@freeCodeCamp
+
+
+I've successfully finished the Regular Expressions in Javascript! I've gained knowledge on how to locate specific characters within a string and eliminate unnecessary spaces. Eagerly anticipating the next task at hand.
+
+  **Thoughts** 
+
+  This topics will help me in my log in forms in the future
